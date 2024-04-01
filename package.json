@@ -58,7 +58,7 @@
     "retext-english": "^4.1.0",
     "retext-spell": "^5.3.0",
     "sass": "^1.61.0",
-    "textlint": "^13.3.2",
+    "textlint": "^13.4.1",
     "textlint-rule-max-comma": "^3.0.1",
     "textlint-rule-no-zero-width-spaces": "^1.0.1",
     "textlint-rule-spellchecker": "^2.2.1",

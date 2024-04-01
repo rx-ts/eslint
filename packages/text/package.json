@@ -42,7 +42,7 @@
     "eslint-plugin-utils": "^0.3.2",
     "retext-stringify": "^3.1.0",
     "synckit": "^0.8.8",
-    "textlint": "^13.3.2",
+    "textlint": "^13.4.1",
     "tslib": "^2.6.2",
     "unified": "^10.1.2",
     "vfile": "^5.3.7",
