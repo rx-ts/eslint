@@ -40,7 +40,7 @@
     "@markuplint/rule-textlint": "^3.15.0",
     "@mdx-js/rollup": "^2.3.0",
     "@textlint/textlint-plugin-markdown": "^13.4.1",
-    "@textlint/textlint-plugin-text": "^13.3.3",
+    "@textlint/textlint-plugin-text": "^13.4.1",
     "@types/eslint": "^8.37.0",
     "@types/htmlhint": "^1.1.5",
     "@types/node": "^18.15.11",
