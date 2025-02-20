@@ -46,7 +46,7 @@
     "@types/node": "^18.15.11",
     "@types/react": "^18.0.33",
     "@types/react-dom": "^18.0.11",
-    "@types/web": "^0.0.99",
+    "@types/web": "^0.0.204",
     "@vitejs/plugin-react-swc": "^3.3.1",
     "@vitest/coverage-istanbul": "^0.29.8",
     "dictionary-en": "^3.2.0",
