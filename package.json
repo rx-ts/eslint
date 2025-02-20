@@ -36,7 +36,7 @@
     "@1stg/app-config": "^8.0.1",
     "@1stg/lib-config": "^11.0.1",
     "@changesets/changelog-github": "^0.5.0",
-    "@changesets/cli": "^2.27.1",
+    "@changesets/cli": "^2.28.1",
     "@markuplint/rule-textlint": "^3.15.0",
     "@mdx-js/rollup": "^2.3.0",
     "@textlint/textlint-plugin-markdown": "^13.4.1",
